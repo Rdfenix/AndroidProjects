@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores padrões da aplicação -->
+    <color name="colorPrimary">#13818d</color>
+    <color name="colorPrimaryDark">#005460</color>
+    <color name="colorAccent">#54b1bd</color>
+
+    <!--Cores básicas-->
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="black">#99C0C0C0</color>
+</resources>

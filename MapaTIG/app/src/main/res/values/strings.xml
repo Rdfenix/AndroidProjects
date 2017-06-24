@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapaTIG</string>
+    <string name="error_conexao_indisponivel">Conexão indisponível. Verifique seu Wi-FI ou seu plano de dados.</string>
+    <string name="API_KEY">AIzaSyB72ryQritHgMfNXsq2UantFpn6BjJut-Q</string>
+    <string name="title_activity_resgistro">ResgistroActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>

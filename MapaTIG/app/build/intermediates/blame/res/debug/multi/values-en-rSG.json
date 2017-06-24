@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\aiolo\\Documents\\AndroidProjects\\MapaTIG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\aiolo\\.android\\build-cache\\dfce4f0321351bc4f7a46274f01635f634c85000\\output\\res\\values-en-rSG\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 103,
+                        "endOffset": 403
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Workspace\\AndroidStudioProjects\\MapaTIG\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\aiolo\\.android\\build-cache\\dfce4f0321351bc4f7a46274f01635f634c85000\\output\\res\\values-en-rSG\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 103,
+                        "endOffset": 403
+                    }
+                }
+            }
+        ]
+    }
+]

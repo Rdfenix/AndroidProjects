@@ -1,0 +1,73 @@
+<android.support.v7.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:background="@drawable/background_padrao">
+
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fitsSystemWindows="true"
+        android:id="@+id/conteudo_login">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="56dp"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="CriMap
+TIG III"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold"/>
+
+            <EditText android:id="@+id/input_login"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:inputType="textEmailAddress"
+                android:background="@drawable/txtlogin_designer"
+                android:textSize="25sp"
+                android:text="joao@gmail.com"
+                android:layout_marginTop="80dp"
+                android:textAlignment="center"
+                android:hint="LOGIN" />
+
+            <EditText android:id="@+id/input_senha"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:inputType="textEmailAddress"
+                android:background="@drawable/txtlogin_designer"
+                android:textSize="25sp"
+                android:text="1234"
+                android:password="true"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:hint="SENHA" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btn_login"
+                android:layout_width="fill_parent"
+                android:layout_height="42dp"
+                android:layout_marginTop="60dp"
+                android:text="Login"
+                android:textColor="@color/white"
+                android:background="@color/colorPrimary"
+                android:textSize="20sp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.v7.widget.LinearLayoutCompat>
